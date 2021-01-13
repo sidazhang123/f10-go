@@ -1,0 +1,75 @@
+syntax = "proto3";
+//protoc --proto_path=. --go_out=. --micro_out=. proto/processor/processor.proto
+option go_package="proto/processor";
+package sidazhang123.f10.srv.processor;
+
+service Processor {
+    rpc Process (Request) returns (Response) {
+    }
+    rpc RegexTest (RegexReq) returns (RegexRsp) {
+    }
+    rpc BuildSo (BuildSoReq) returns (BuildSoRsp) {
+    }
+    rpc GetSourceCode (GetSourceCodeReq) returns (GetSourceCodeRsp) {
+    }
+    rpc GetPluginPath (GetPluginPathReq) returns (GetPluginPathRsp) {
+    }
+
+}
+
+message Stock {
+    string code = 1;
+    string name = 2;
+    string flag = 3;
+    string body = 4;
+    int64 updateTime = 5;
+}
+message Request {
+    string date = 1;
+    string flagName=2;
+    int32 params = 3;
+    //	0 - send to process; 1 - return
+}
+
+message Error {
+    int32 code = 1;
+    string detail = 2;
+}
+
+message Response {
+    bool success = 1;
+    repeated Stock stockList = 2;
+    Error error = 3;
+}
+
+message RegexReq {
+    string pluginPath = 1;
+    string testStr = 2;
+}
+
+message RegexRsp {
+    string resStr = 1;
+    string errMsg = 2;
+}
+message BuildSoReq {
+    string pluginPath = 1;
+    string sourceCode = 2;
+}
+message BuildSoRsp {
+    string errMsg = 1;
+    string path = 2;
+}
+message GetSourceCodeReq {
+    string path = 1;
+}
+message GetSourceCodeRsp {
+    string errMsg = 1;
+    string sourceCode = 2;
+}
+message GetPluginPathReq {
+}
+message GetPluginPathRsp {
+    string errMsg = 1;
+    string joinedPath = 2;
+}
+

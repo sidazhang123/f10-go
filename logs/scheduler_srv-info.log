@@ -1,0 +1,8 @@
+{"level":"info","ts":1608720344.4844053,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608720344.4854023,"caller":"scheduler/main.go:83","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608720344.4903898,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608720344.4903898,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608720344.4913867,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:47:00.000Z]"}
+{"level":"info","ts":1608720344.4913867,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608720344.4913867,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608720420.4925106,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:47:00.490Z\""}

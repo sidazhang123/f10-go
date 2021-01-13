@@ -1,0 +1,29 @@
+cron:
+  time_zone:
+    loc: Asia/Shanghai
+  task1:
+    name: GetCodeName
+    #    every: # sec,min,day,mon,DOW
+    every: 1
+    unit: Day
+    #    default 00:00:00 if based on Day, add seconds to prevent from running twice
+    at: 08:00:00
+    #    cover panics
+    safe: false
+  task2:
+    name: DeleteOutdatedFocus
+    #    every: # sec,min,day,mon,DOW
+    every: 1
+    unit: Day
+    #    default 00:00 if based on Day, add seconds to prevent from running twice
+    at: 01:00:00
+    #    cover panics
+    safe: false
+#  task2:
+#    name: get_next
+#    #    every: # sec,min,day,mon,DOW
+#    every: 2
+#    unit: day
+#    #    default 00:00:00
+#    at: 13:00:00
+#    safe: true

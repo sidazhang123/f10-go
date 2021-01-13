@@ -1,0 +1,394 @@
+{"level":"info","ts":1603285314.2317913,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603285314.233786,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603285314.233786,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603285314.257597,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603285314.257597,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603285856.2173252,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603285856.3383522,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603286598.9725864,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603286598.973584,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603286598.974581,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603286598.995525,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603286598.995525,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603286612.0477483,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603290910.4429731,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603290910.44397,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603290910.4449668,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603290910.4659114,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603290910.4669092,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603290936.4501672,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603290936.4511654,"caller":"model/agg.go:50","msg":"DoLT running, from start to end"}
+{"level":"info","ts":1603291065.1237543,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603291065.1267467,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603291065.1267467,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603291065.1462023,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603291065.1462023,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603291119.436216,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603291119.436216,"caller":"model/agg.go:50","msg":"DoLT running, from  to "}
+{"level":"info","ts":1603291121.597416,"caller":"model/agg.go:71","msg":"DoFA running, from  to "}
+{"level":"info","ts":1603291132.330977,"caller":"model/agg.go:152","msg":"DoSA running, from  to "}
+{"level":"info","ts":1603291148.7186391,"caller":"model/agg.go:111","msg":"DoOA running, from  to "}
+{"level":"info","ts":1603291179.6789746,"caller":"handler/accumulator.go:53","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603291464.8006516,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603291464.802645,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603291464.802645,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603291464.8225951,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603291464.8234775,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603291481.5887215,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603291488.5512557,"caller":"model/agg.go:57","msg":"DoLT running, from 2020-10-16 to 0001-01-01"}
+{"level":"info","ts":1603292120.4016755,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603292120.4036689,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603292120.4046664,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603292120.4256105,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603292120.4256105,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603292126.9083545,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603292147.3627484,"caller":"handler/accumulator.go:53","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603292426.32394,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603292426.325936,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603292426.326932,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603292426.34987,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603292426.350868,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603292431.7549758,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603292431.7549758,"caller":"model/agg.go:359","msg":"0 0"}
+{"level":"info","ts":1603292433.2400317,"caller":"model/agg.go:359","msg":"0 0"}
+{"level":"info","ts":1603292451.1068153,"caller":"model/agg.go:359","msg":"0 0"}
+{"level":"info","ts":1603292457.1809452,"caller":"model/agg.go:359","msg":"0 0"}
+{"level":"info","ts":1603292470.209199,"caller":"handler/accumulator.go:53","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603292546.4699802,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603292546.4719748,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603292546.4719748,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603292546.490924,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603292546.490924,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603292552.3681374,"caller":"handler/accumulator.go:25","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603292556.5266578,"caller":"model/agg.go:58","msg":"DoLT running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603302470.332728,"caller":"model/agg.go:86","msg":"DoFA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603332065.5419576,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603332065.5439532,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603332065.5439532,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603332065.5638998,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603332065.5648975,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603332138.3044953,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603332138.3044953,"caller":"handler/accumulator.go:58","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603332144.1747997,"caller":"model/agg.go:87","msg":"DoFA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603375209.1428664,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603375209.143864,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603375209.1448615,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603375209.1687994,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603375209.1687994,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603375234.0719318,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603375234.0719318,"caller":"handler/accumulator.go:60","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603375301.2505836,"caller":"model/agg.go:135","msg":"DoOA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603375308.1941395,"caller":"model/agg.go:177","msg":"DoSA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603378379.0117016,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603378379.0126987,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603378379.0146933,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603378379.034645,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603378379.0356436,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603378386.1900606,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603378392.4787128,"caller":"model/agg.go:178","msg":"DoSA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603378556.6082795,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603378556.6092663,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603378556.6092663,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603378556.6332114,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603378556.634209,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603378562.8924913,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603378564.5097084,"caller":"model/agg.go:178","msg":"DoSA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603378575.6004927,"caller":"model/agg.go:136","msg":"DoOA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603379301.5571415,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603379301.559137,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603379301.5601337,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603379301.5800796,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603379301.581078,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603379358.3294044,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603381821.1693907,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603381821.1823559,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603381821.1903346,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603381821.2252412,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603381821.2292306,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603381912.4297838,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603381943.434982,"caller":"model/agg.go:179","msg":"DoSA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603381957.4735878,"caller":"model/agg.go:137","msg":"DoOA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603390104.555266,"caller":"handler/accumulator.go:60","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603421663.0755248,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603421663.07752,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603421663.07752,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603421663.0994606,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603421663.0994606,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603421980.5373442,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603421996.700549,"caller":"model/agg.go:179","msg":"DoSA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603422160.8314576,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603422160.832454,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603422160.833451,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603422160.8533976,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603422160.8533976,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603422173.1327221,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603422174.8501508,"caller":"model/agg.go:179","msg":"DoSA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603423019.511243,"caller":"handler/accumulator.go:60","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1603432815.5150185,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603432815.5190084,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603432815.5200055,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603432815.5419462,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603432815.5429528,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603432828.111211,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603432830.3828297,"caller":"handler/accumulator.go:75","msg":"Accumulator.ReprAll done"}
+{"level":"info","ts":1603434595.9958112,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603434595.9968088,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603434595.9968088,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603434596.0202353,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603434596.0204585,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603434602.1369028,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603435290.4867764,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603435290.4877727,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603435290.4887702,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603435290.5077193,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603435290.5077193,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603435297.065101,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603435297.1757529,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603436125.0569673,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603436125.0579648,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603436125.0579648,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603436125.0779114,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603436125.0789087,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603436134.988373,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603436161.2710984,"caller":"handler/accumulator.go:75","msg":"Accumulator.ReprAll done"}
+{"level":"info","ts":1603436308.6019936,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603436308.6049848,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603436308.6059823,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603436308.6368992,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603436308.6368992,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603436313.9398868,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603436339.8095853,"caller":"handler/accumulator.go:75","msg":"Accumulator.ReprAll done"}
+{"level":"info","ts":1603437300.278602,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603437300.2935624,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603437300.3075247,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603437300.3534017,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603437300.3952897,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603437358.2380755,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603437392.6994646,"caller":"handler/accumulator.go:75","msg":"Accumulator.ReprAll done"}
+{"level":"info","ts":1603437668.7012434,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603437668.7022407,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603437668.7022407,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603437668.7261765,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603437668.7261765,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603437674.638233,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603437711.154906,"caller":"handler/accumulator.go:75","msg":"Accumulator.ReprAll done"}
+{"level":"info","ts":1603471802.604228,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603471802.6052256,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603471802.6052256,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603471802.6331508,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603471802.6331508,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603471809.1142695,"caller":"handler/accumulator.go:65","msg":"Received Accumulator.ReprAll request"}
+{"level":"info","ts":1603471851.8521414,"caller":"handler/accumulator.go:75","msg":"Accumulator.ReprAll done"}
+{"level":"info","ts":1603475038.9748473,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603475038.97663,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603475038.97663,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603475038.9985707,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603475038.9985707,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603475069.423286,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603475081.8147736,"caller":"model/agg.go:94","msg":"DoFA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603475384.4410865,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603475384.442084,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603475384.4430823,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603475384.4620368,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603475384.4620368,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603475395.5891328,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request"}
+{"level":"info","ts":1603475398.0643525,"caller":"model/agg.go:94","msg":"DoFA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603475582.4553556,"caller":"model/agg.go:142","msg":"DoOA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603479580.6385915,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603479580.6395884,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603479580.6405852,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603479580.6645207,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603479580.6645207,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603479600.59372,"caller":"handler/accumulator.go:26","msg":"Received Accumulator.Agg request operational_analysis,financial_analysis"}
+{"level":"info","ts":1603479612.5673094,"caller":"model/agg.go:142","msg":"DoOA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603479615.2254844,"caller":"model/agg.go:94","msg":"DoFA running, from 2019-11-27 to 2020-10-16"}
+{"level":"info","ts":1603487815.6992197,"caller":"handler/accumulator.go:60","msg":"Accumulator.Agg done"}
+{"level":"info","ts":1602821651.6368988,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1602821651.6378958,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1602821651.6388934,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1602821651.6578608,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1602821651.6578608,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1602821743.8172934,"caller":"pubsub/subscriber.go:19","msg":"Accumulate broadcast received. sentTime 2020-10-16T12:15:43.814Z; msg "}
+{"level":"info","ts":1602821743.8192883,"caller":"model/agg.go:68","msg":"DoLT running, from 2020-10-16 to 2020-10-17"}
+{"level":"info","ts":1602821743.8192883,"caller":"model/agg.go:186","msg":"DoSA running, from 2020-10-16 to 2020-10-17"}
+{"level":"info","ts":1602821743.8192883,"caller":"model/agg.go:144","msg":"DoOA running, from 2020-10-16 to 2020-10-17"}
+{"level":"info","ts":1602821743.8192883,"caller":"model/agg.go:96","msg":"DoFA running, from 2020-10-16 to 2020-10-17"}
+{"level":"info","ts":1602821906.0954826,"caller":"pubsub/subscriber.go:31","msg":"Accumulate Complete"}
+{"level":"info","ts":1603513789.7657897,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603513789.7667875,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603513789.7667875,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603513789.787731,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603513789.787731,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603515426.9141245,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request ; 2020-10-24T12:57:06.914Z"}
+{"level":"info","ts":1603515459.0310562,"caller":"model/agg.go:68","msg":"DoLT running, from 2020-10-17 to 2020-10-24"}
+{"level":"info","ts":1603515572.2643535,"caller":"model/agg.go:96","msg":"DoFA running, from 2020-10-17 to 2020-10-24"}
+{"level":"info","ts":1603515610.364442,"caller":"model/agg.go:186","msg":"DoSA running, from 2020-10-17 to 2020-10-24"}
+{"level":"info","ts":1603515621.8863282,"caller":"model/agg.go:144","msg":"DoOA running, from 2020-10-17 to 2020-10-24"}
+{"level":"info","ts":1603516002.1411526,"caller":"handler/accumulator.go:61","msg":"Received Accumulator.Agg done ; 2020-10-24T13:06:42.141Z"}
+{"level":"info","ts":1603633006.07104,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603633006.0730343,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603633006.0740323,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603633006.102956,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603633006.102956,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603633040.571893,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request shareholder_analysis; 2020-10-25T21:37:20.571Z"}
+{"level":"info","ts":1603633065.5941842,"caller":"model/agg.go:185","msg":"DoSA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603633603.5416546,"caller":"handler/accumulator.go:61","msg":"Received Accumulator.Agg done shareholder_analysis; 2020-10-25T21:46:43.541Z"}
+{"level":"info","ts":1603633704.334404,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request shareholder_analysis; 2020-10-25T21:48:24.334Z"}
+{"level":"info","ts":1603633705.8743453,"caller":"model/agg.go:185","msg":"DoSA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603634256.825338,"caller":"handler/accumulator.go:61","msg":"Received Accumulator.Agg done shareholder_analysis; 2020-10-25T21:57:36.825Z"}
+{"level":"info","ts":1603634271.263483,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603634271.2684708,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603634271.2684708,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603634271.294401,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603634271.295399,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603634271.2963958,"caller":"model/accumulate.go:67","msg":"map[业绩预告:f10a_supplement 公积:f10 净利润(万元):f12_finance 净利润增长率(%):f12_finance 净利润现金含量(%):f12_finance 加权净资产收益率(%):f12_finance 发行前限售:f10 增发A股:f10 审计意见:f12_finance 承诺到期:f10 控股比例:f10 最新公告:f10a_supplement 最新报道:f10a_supplement 最新提醒增发:f10a_supplement 未分:f10 激励限售:f10 特别处理:f10a_supplement 股东户数变化:f10a_supplement 股改限售:f10 营业总收入(万元):f12_finance 营业总收入增长率(%):f12_finance 质押:f10 资产负债比率(%):f12_finance]\n"}
+{"level":"info","ts":1603634278.0153282,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request latest_tips; 2020-10-25T21:57:58.015Z"}
+{"level":"info","ts":1603634292.0424516,"caller":"model/agg.go:67","msg":"DoLT running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638479.678769,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603638479.679767,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603638479.6807644,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603638479.7027059,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603638479.7037027,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603638479.7047002,"caller":"model/accumulate.go:67","msg":"map[业绩预告:f10a_supplement 公积:f10 净利润(万元):f12_finance 净利润增长率(%):f12_finance 净利润现金含量(%):f12_finance 加权净资产收益率(%):f12_finance 发行前限售:f10 增发A股:f10 审计意见:f12_finance 承诺到期:f10 最新公告:f10a_supplement 最新报道:f10a_supplement 最新提醒增发:f10a_supplement 未分:f10 激励限售:f10 特别处理:f10a_supplement 股东户数变化:f10a_supplement 股东控股:f10 股改限售:f10 营业总收入(万元):f12_finance 营业总收入增长率(%):f12_finance 质押:f10 资产负债比率(%):f12_finance]\n"}
+{"level":"info","ts":1603638549.8030376,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request ; 2020-10-25T23:09:09.803Z"}
+{"level":"info","ts":1603638552.636463,"caller":"model/agg.go:67","msg":"DoLT running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638558.0001268,"caller":"model/agg.go:203","msg":"DoSA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638653.862959,"caller":"model/agg.go:113","msg":"DoFA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638661.9932284,"caller":"model/agg.go:161","msg":"DoOA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638799.6534934,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603638799.6544914,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603638799.6544914,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603638799.674438,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603638799.674438,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603638821.4943879,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request ; 2020-10-25T23:13:41.494Z"}
+{"level":"info","ts":1603638824.5741565,"caller":"model/agg.go:161","msg":"DoOA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638839.742764,"caller":"model/agg.go:113","msg":"DoFA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638871.8413875,"caller":"model/agg.go:67","msg":"DoLT running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603638882.2515347,"caller":"model/agg.go:203","msg":"DoSA running, from 2019-11-27 to 2020-10-24"}
+{"level":"info","ts":1603652830.4452538,"caller":"handler/accumulator.go:61","msg":"Received Accumulator.Agg done ; 2020-10-26T03:07:10.444Z"}
+{"level":"info","ts":1603676537.6336763,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603676537.6336763,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603676537.634674,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603676537.660605,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603676537.6626036,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603677171.5733092,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603677171.5743062,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603677171.5743062,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603677171.5972462,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603677171.5982444,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603677500.864024,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603677500.8660188,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603677500.8670168,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603677500.8919501,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603677500.892947,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603679224.091122,"caller":"handler/accumulator.go:28","msg":"Received Accumulator.Agg request ; 2020-10-26T10:27:04.091Z"}
+{"level":"info","ts":1603679236.7771118,"caller":"model/agg.go:67","msg":"DoLT running, from 2020-10-16 to 2020-10-24"}
+{"level":"info","ts":1603679389.782436,"caller":"model/agg.go:203","msg":"DoSA running, from 2020-10-16 to 2020-10-24"}
+{"level":"info","ts":1603679417.9537814,"caller":"model/agg.go:161","msg":"DoOA running, from 2020-10-16 to 2020-10-24"}
+{"level":"info","ts":1603679429.3373578,"caller":"model/agg.go:113","msg":"DoFA running, from 2020-10-16 to 2020-10-24"}
+{"level":"info","ts":1603679800.209632,"caller":"handler/accumulator.go:61","msg":"Received Accumulator.Agg done ; 2020-10-26T10:36:40.209Z"}
+{"level":"info","ts":1603680131.5480947,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603680131.5530813,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603680131.5530813,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603680131.5740256,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603680131.5750237,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603680196.4559355,"caller":"handler/accumulator.go:66","msg":"Received Accumulator.ReprAll request; 2020-10-26T10:43:16.455Z"}
+{"level":"info","ts":1603680259.2197027,"caller":"handler/accumulator.go:76","msg":"Accumulator.ReprAll done; 2020-10-26T10:44:19.219Z"}
+{"level":"info","ts":1603681480.872246,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T11:04:40.872Z"}
+{"level":"info","ts":1603681562.2637072,"caller":"handler/accumulator.go:91","msg":"Accumulator.ReprAll done; 2020-10-26T11:06:02.263Z"}
+{"level":"info","ts":1603682327.0559757,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603682327.0579703,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603682327.0589669,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603682327.0819056,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603682327.0829034,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603682371.698379,"caller":"model/accumulate.go:81","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603682391.3624475,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T11:19:51.362Z"}
+{"level":"info","ts":1603682453.2712917,"caller":"handler/accumulator.go:91","msg":"Accumulator.ReprAll done; 2020-10-26T11:20:53.271Z"}
+{"level":"info","ts":1603682595.5467734,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603682595.5497658,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603682595.5497658,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603682595.5826774,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603682595.5826774,"caller":"accumulator/main.go:79","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603682636.703485,"caller":"model/accumulate.go:81","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603682644.7450666,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T11:24:04.745Z"}
+{"level":"info","ts":1603682644.9126182,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T11:24:04.912Z"}
+{"level":"info","ts":1603688172.303716,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T12:56:12.303Z"}
+{"level":"info","ts":1603688172.5413964,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T12:56:12.541Z"}
+{"level":"info","ts":1603688274.650077,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T12:57:54.650Z"}
+{"level":"info","ts":1603688274.8226163,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T12:57:54.822Z"}
+{"level":"info","ts":1603689612.2071116,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603689612.2081094,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603689612.2091064,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603689612.2300508,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603689612.231048,"caller":"accumulator/main.go:81","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603689622.3916318,"caller":"model/accumulate.go:80","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603689639.4925625,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:20:39.492Z"}
+{"level":"info","ts":1603689639.679064,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:20:39.679Z"}
+{"level":"info","ts":1603689713.9352243,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603689713.9362216,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603689713.9362216,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603689713.9860888,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603689713.9970596,"caller":"accumulator/main.go:81","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603689715.2985818,"caller":"model/accumulate.go:80","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603689750.4908211,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:22:30.490Z"}
+{"level":"info","ts":1603689750.644165,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:22:30.644Z"}
+{"level":"info","ts":1603689961.440757,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603689961.446741,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603689961.4477386,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603689961.485637,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603689961.4866343,"caller":"accumulator/main.go:81","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603689963.2938058,"caller":"model/accumulate.go:80","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603689985.5555897,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:26:25.555Z"}
+{"level":"info","ts":1603689985.7223883,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:26:25.722Z"}
+{"level":"info","ts":1603690751.0556495,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603690751.0576444,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603690751.0586414,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603690751.0995333,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603690751.1015303,"caller":"accumulator/main.go:81","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603690752.3511875,"caller":"model/accumulate.go:80","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603691998.0886729,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:59:58.088Z"}
+{"level":"info","ts":1603691998.2851484,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T13:59:58.285Z"}
+{"level":"info","ts":1603692351.8570898,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603692351.8590848,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603692351.8590848,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603692351.8900018,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603692351.890999,"caller":"accumulator/main.go:81","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603692353.1346757,"caller":"model/accumulate.go:80","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603693083.0435834,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T14:18:03.043Z"}
+{"level":"info","ts":1603693083.22834,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T14:18:03.228Z"}
+{"level":"info","ts":1603693756.260662,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T14:29:16.260Z"}
+{"level":"info","ts":1603693756.4240406,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T14:29:16.424Z"}
+{"level":"info","ts":1603694025.8611686,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T14:33:45.861Z"}
+{"level":"info","ts":1603694026.0270154,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T14:33:46.027Z"}
+{"level":"info","ts":1603696089.9590993,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:08:09.959Z"}
+{"level":"info","ts":1603696090.134957,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:08:10.134Z"}
+{"level":"info","ts":1603696096.24829,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:08:16.248Z"}
+{"level":"info","ts":1603696096.4202864,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:08:16.420Z"}
+{"level":"info","ts":1603696098.0113862,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:08:18.011Z"}
+{"level":"info","ts":1603696098.1899786,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:08:18.189Z"}
+{"level":"info","ts":1603696149.6272624,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:09:09.627Z"}
+{"level":"info","ts":1603696149.79572,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:09:09.795Z"}
+{"level":"info","ts":1603696191.8743129,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:09:51.874Z"}
+{"level":"info","ts":1603696192.1356323,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:09:52.135Z"}
+{"level":"info","ts":1603696194.5982444,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:09:54.598Z"}
+{"level":"info","ts":1603696194.7533002,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:09:54.753Z"}
+{"level":"info","ts":1603696286.5144875,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:26.514Z"}
+{"level":"info","ts":1603696286.6692348,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:26.669Z"}
+{"level":"info","ts":1603696291.4207144,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:31.420Z"}
+{"level":"info","ts":1603696291.576457,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:31.576Z"}
+{"level":"info","ts":1603696292.9232697,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:32.923Z"}
+{"level":"info","ts":1603696293.0821557,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:33.082Z"}
+{"level":"info","ts":1603696294.2413166,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:34.241Z"}
+{"level":"info","ts":1603696294.3974,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:34.397Z"}
+{"level":"info","ts":1603696295.904921,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:35.904Z"}
+{"level":"info","ts":1603696296.0600283,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:11:36.060Z"}
+{"level":"info","ts":1603696349.3774707,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:12:29.377Z"}
+{"level":"info","ts":1603696349.5582635,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:12:29.558Z"}
+{"level":"info","ts":1603697246.4987254,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603697246.5007205,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603697246.5086992,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:127.0.0.1 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1603697246.5386188,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1603697246.5485928,"caller":"accumulator/main.go:82","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.accumulator","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1603697248.0715365,"caller":"model/accumulate.go:80","msg":"[initReprJson] complete"}
+{"level":"info","ts":1603697257.5962536,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:27:37.596Z"}
+{"level":"info","ts":1603698059.9539049,"caller":"handler/accumulator.go:81","msg":"Received Accumulator.GetRepr request; 2020-10-26T15:40:59.953Z"}

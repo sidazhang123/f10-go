@@ -1,0 +1,27 @@
+syntax = "proto3";
+//protoc --proto_path=. --go_out=. --micro_out=. proto\accumulator\accumulator.proto
+option go_package = "proto/accumulator";
+package sidazhang123.f10.srv.accumulator;
+
+service Accumulator {
+  rpc Agg (Request) returns (Response) {
+  }
+  rpc ReprAll (Request) returns (Response) {
+  }
+  rpc GetRepr(ReprReq) returns(Response){
+  }
+}
+
+message Request {
+  string code = 1;
+  string collection = 2;
+  string start = 3;
+  string end = 4;
+}
+message ReprReq{
+  string win = 2;
+}
+message Response {
+  bool success = 1;
+  string msg = 2;
+}

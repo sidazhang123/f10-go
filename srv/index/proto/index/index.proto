@@ -1,0 +1,34 @@
+syntax = "proto3";
+option go_package = "proto/index";
+package sidazhang123.f10.srv.index;
+//protoc --proto_path=. --go_out=. --micro_out=. proto/index/index.proto
+service Index {
+    rpc GetCodeName (Request) returns (Response) {
+    }
+
+}
+
+message Stock {
+	string code = 1;
+	string name=2;
+	string flagname=3;
+	string filename=4;
+	string start=5;
+	string length=6;
+}
+
+message Request {
+	Stock stock = 1;
+	int32 params=2;
+}
+
+message Error {
+	int32 code = 1;
+	string detail = 2;
+}
+
+message Response {
+	bool success = 1;
+	repeated Stock stockList=2;
+	Error error = 3;
+}

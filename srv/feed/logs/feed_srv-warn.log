@@ -1,0 +1,96 @@
+{"level":"warn","ts":1597753557.0225587,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597753563.1864045,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597754379.6918435,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597754385.92969,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597754741.117559,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597754747.6118062,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597754809.7123537,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597754811.05876,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755382.143254,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755386.357053,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755598.1542807,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755601.4024465,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755660.085575,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755661.113316,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755843.8065157,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755846.7990487,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755952.4835925,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597755955.5673096,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756055.841915,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756058.8081374,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756249.1430414,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756252.1215498,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756407.8132854,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756410.7122693,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756797.192239,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597756802.0159867,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757001.6239312,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757004.5485854,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757016.082927,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757019.0282245,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757043.2157614,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757046.1615636,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757093.56966,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757096.513569,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757120.4738803,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757123.4051647,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597757369.0087276,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597758377.3094254,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597758456.0704474,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597758566.4589543,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597758911.3392377,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597759058.2989697,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597759266.3352149,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597759589.084919,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597759762.5305722,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597759958.0417576,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597759958.165427,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597760084.50194,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597760267.9373596,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597760439.4100904,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597844263.1977649,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597844271.065866,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1597844472.0793822,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597844474.8789713,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1597845025.7596111,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597845029.9567957,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1597845226.989173,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597845230.1248205,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1597845294.6533012,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597845295.663907,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1597845492.1342432,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597845493.1274352,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1597845504.1330187,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1597845507.044773,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598237648.2737272,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598237655.7835245,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598237719.2859833,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598237722.164765,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598238087.150854,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598238087.9575,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598238243.1407647,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598238246.3815947,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598238300.9663186,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598238301.7999487,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598238382.9052596,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598238386.0604334,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598238472.7261598,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598238476.1620317,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598238582.6106126,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598238585.813105,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598239987.8639562,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598239988.6745791,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598241510.0263534,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598241514.910683,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598241537.9231136,"caller":"model/LTFocus.go:56","msg":"cannot find valid latest_tips records in last 5 days...skipping the comparision between 2 consecutive days"}
+{"level":"warn","ts":1598241541.372975,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598277532.9330647,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598783649.8510354,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598783807.7784085,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598783892.1844246,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598784263.5074868,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598784361.8155873,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598784752.6935127,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598784967.9243317,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598784986.4085994,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}
+{"level":"warn","ts":1598784990.8532026,"caller":"model/genCSV.go:76","msg":"cannot find valid operational_analysis records in last 5 days"}

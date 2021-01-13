@@ -1,0 +1,111 @@
+{"level":"info","ts":1608717027.4599915,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608717027.4609888,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608717027.466975,"caller":"model/cron.go:100","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608717027.4689698,"caller":"model/cron.go:100","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608717027.4689698,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T17:51:00.000Z]"}
+{"level":"info","ts":1608717027.4699643,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608717027.4699643,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608717079.3167577,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608717079.3187277,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608717079.3207278,"caller":"model/cron.go:100","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608717079.3207278,"caller":"model/cron.go:100","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608717079.3217282,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T17:52:00.000Z]"}
+{"level":"info","ts":1608717079.3217282,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608717079.3217282,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608717120.322939,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\"  sentTime:\"2020-12-23T17:52:00.321Z\""}
+{"level":"info","ts":1608717120.322939,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\"  sentTime:\"2020-12-23T17:52:00.321Z\""}
+{"level":"info","ts":1608717120.322939,"caller":"model/tasks.go:10","msg":"yoooooooooooooooooooooooooooooooooooooooo"}
+{"level":"info","ts":1608717120.3239343,"caller":"model/tasks.go:10","msg":"yoooooooooooooooooooooooooooooooooooooooo"}
+{"level":"info","ts":1608717186.2700148,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608717186.2710123,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608717186.2730196,"caller":"model/cron.go:100","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608717186.2730196,"caller":"model/cron.go:100","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608717186.2740045,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T17:55:00.000Z]"}
+{"level":"info","ts":1608717186.2750025,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608717186.2750025,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608717235.2169652,"caller":"handler/scheduler.go:22","msg":"[handler] Received Once request"}
+{"level":"info","ts":1608717235.3224497,"caller":"handler/scheduler.go:22","msg":"[handler] Received Once request"}
+{"level":"info","ts":1608717300.2888074,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T17:55:00.287Z\""}
+{"level":"info","ts":1608717324.297067,"caller":"handler/scheduler.go:38","msg":"[handler] Received NextScheduledTask request"}
+{"level":"info","ts":1608717428.25604,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608717428.2570376,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608717428.2590327,"caller":"model/cron.go:100","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608717428.2600305,"caller":"model/cron.go:100","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608717428.2600305,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T17:59:00.000Z]"}
+{"level":"info","ts":1608717428.2600305,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608717428.2610412,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608717434.0088215,"caller":"handler/scheduler.go:38","msg":"[handler] Received NextScheduledTask request"}
+{"level":"info","ts":1608717540.2620444,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T17:59:00.261Z\""}
+{"level":"info","ts":1608717540.2620444,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T17:59:00.261Z\""}
+{"level":"info","ts":1608718401.3460739,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608718401.3470376,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608718401.350031,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608718401.351027,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608718401.351027,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-24T01:00:00.000Z]"}
+{"level":"info","ts":1608718401.351027,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608718401.3520315,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608719071.500889,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608719071.5018888,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608719071.5038807,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608719071.504878,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608719071.504878,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:25:00.000Z]"}
+{"level":"info","ts":1608719071.504878,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608719071.5058753,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608719952.0759923,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608719952.0769567,"caller":"scheduler/main.go:83","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608719952.079948,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608719952.079948,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608719952.079948,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:40:00.000Z]"}
+{"level":"info","ts":1608719952.080945,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608719952.080945,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608720000.0814838,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:40:00.080Z\""}
+{"level":"info","ts":1608720469.3493416,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608720469.3503387,"caller":"scheduler/main.go:83","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608720469.353332,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608720469.3543286,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608720469.3543286,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:49:00.000Z]"}
+{"level":"info","ts":1608720469.3553257,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608720469.3553257,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608720532.2603045,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608720532.2613022,"caller":"scheduler/main.go:83","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608720532.264294,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608720532.2652915,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608720532.2652915,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:49:00.000Z]"}
+{"level":"info","ts":1608720532.2652915,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608720532.2652915,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608720540.2665367,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:49:00.265Z\""}
+{"level":"info","ts":1608720540.2665367,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:49:00.265Z\""}
+{"level":"info","ts":1608720698.837595,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608720698.8385932,"caller":"scheduler/main.go:83","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608720698.8415842,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608720698.8425817,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608720698.8425817,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:52:00.000Z]"}
+{"level":"info","ts":1608720698.8425817,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608720698.8425817,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608720720.8503275,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:52:00.849Z\""}
+{"level":"info","ts":1608721009.3090577,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608721009.3100257,"caller":"scheduler/main.go:101","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608721009.314024,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608721009.314024,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608721009.314024,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T18:58:00.000Z]"}
+{"level":"info","ts":1608721009.3150246,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608721009.3150246,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608721080.315544,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:58:00.314Z\""}
+{"level":"info","ts":1608721080.315544,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T18:58:00.314Z\""}
+{"level":"info","ts":1608721147.386184,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608721147.3881786,"caller":"scheduler/main.go:101","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608721147.3901742,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608721147.3911707,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608721147.3911707,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T19:00:00.000Z]"}
+{"level":"info","ts":1608721147.3911707,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608721147.3921683,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608721200.3986142,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\" sentTime:\"2020-12-23T19:00:00.397Z\""}
+{"level":"info","ts":1608721406.6071708,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608721406.6081686,"caller":"scheduler/main.go:96","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.scheduler","version":0.1,"addr":"127.0.0.1","port":0}}
+{"level":"info","ts":1608721406.612158,"caller":"model/cron.go:102","msg":"[setJob] call method with name - GetCodeName"}
+{"level":"info","ts":1608721406.612158,"caller":"model/cron.go:102","msg":"[setJob] call method with name - DeleteOutdatedFocus"}
+{"level":"info","ts":1608721406.612158,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [reflect.methodValueCall] starts at [2020-12-23T19:04:00.000Z]"}
+{"level":"info","ts":1608721406.6131837,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608721406.6131837,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey:dingttvs63lhfavlzx4s AppSecret:EkmUXOyw8Z1xzi3jdmtnjkSRYMdASdyr2Cr32qjAlh3kZWw6YZzPYnMxYWNfz9XJ AgentId:1040964899 DeptId:433749602}"}
+{"level":"info","ts":1608721440.613679,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\"  sentTime:\"2020-12-23T19:04:00.612Z\""}
+{"level":"info","ts":1608721440.613679,"caller":"pubsub/publisher.go:22","msg":"sent tag:\"Index\"  sentTime:\"2020-12-23T19:04:00.612Z\""}

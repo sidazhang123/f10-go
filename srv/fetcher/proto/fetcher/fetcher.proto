@@ -1,0 +1,35 @@
+syntax = "proto3";
+option go_package="proto/fetcher";
+package sidazhang123.f10.srv.fetcher;
+
+service Fetcher {
+    rpc FetchRaw (Request) returns (Response) {
+    }
+    rpc QueryRaw (Request) returns (Response) {
+    }
+}
+
+message Stock {
+    string code = 1;
+    string name = 2;
+    string flag = 3;
+    string body = 4;
+    int64 updateTime = 5;
+}
+
+message Request {
+    Stock stock = 1;
+    int32 params = 2;
+    //	0 - send to process; 1 - return
+}
+
+message Error {
+    int32 code = 1;
+    string detail = 2;
+}
+
+message Response {
+    bool success = 1;
+    repeated Stock stockList = 2;
+    Error error = 3;
+}

@@ -1,0 +1,5 @@
+{"level":"info","ts":1608716824.7608457,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1608716824.7628398,"caller":"scheduler/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"","version":0,"addr":"","port":0}}
+{"level":"info","ts":1608716824.7638373,"caller":"model/schedule.go:43","msg":"[Init] Completed. Next Task [] starts at [0001-01-01T00:00:00.000Z]"}
+{"level":"info","ts":1608716824.7638373,"caller":"pubsub/pubsub.go:24","msg":"[Init] pubsub"}
+{"level":"info","ts":1608716824.7638373,"caller":"pubsub/pubsub.go:25","msg":"&{AppKey: AppSecret: AgentId: DeptId:}"}

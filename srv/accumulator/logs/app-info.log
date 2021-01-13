@@ -1,0 +1,8 @@
+{"level":"info","ts":1603285170.746763,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603285170.7487967,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603285170.7497556,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host: Port:0 Username: Password: AuthDB:}}"}
+{"level":"info","ts":1603285170.7517502,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"","version":0,"addr":"","port":0}}
+{"level":"info","ts":1603285234.133723,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1603285234.1369526,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1603285234.139985,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host: Port:0 Username: Password: AuthDB:}}"}
+{"level":"info","ts":1603285234.1460652,"caller":"accumulator/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"","version":0,"addr":"","port":0}}

@@ -1,0 +1,12 @@
+{"level":"info","ts":1584540586.4293585,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1584540586.4301124,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1584540586.4301808,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:192.168.1.11 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1584540586.4561133,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1584540586.456263,"caller":"processor/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.processor","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1584540586.4566257,"caller":"model/process.go:58","msg":"dir=/home/ubuntu/f10-go"}
+{"level":"info","ts":1584540610.3415658,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1584540610.341644,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1584540610.3417168,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:192.168.1.11 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1584540610.364377,"caller":"db/mongodb.go:48","msg":"[InitMongodb] initialized successfully"}
+{"level":"info","ts":1584540610.3645542,"caller":"processor/main.go:77","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.processor","version":0.1,"addr":"","port":0}}
+{"level":"info","ts":1584540610.3649168,"caller":"model/process.go:58","msg":"dir=/home/ubuntu/f10-go"}

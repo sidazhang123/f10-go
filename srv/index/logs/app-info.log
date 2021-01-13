@@ -1,0 +1,2 @@
+{"level":"info","ts":1596853847.4963326,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1596853847.5172772,"caller":"index/main.go:89","msg":"[InitCfg] Conf Loaded...\n%+v","cfg":{"name":"","version":0,"addr":"","port":0}}

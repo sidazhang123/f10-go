@@ -1,0 +1,4 @@
+{"level":"info","ts":1585049152.5420604,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1585049152.5620604,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1585049152.5620604,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host:192.168.1.11 Port:27017 Username:pkwccheng Password:dazar123 AuthDB:admin}}"}
+{"level":"info","ts":1585049182.566912,"caller":"feed/main.go:73","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"sidazhang123.f10.srv.feed","version":0.1,"addr":"","port":0}}

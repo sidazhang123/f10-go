@@ -1,0 +1,104 @@
+syntax = "proto3";
+//protoc --proto_path=. --go_out=. --micro_out=. proto\feed\feed.proto
+option go_package="proto/feed";
+package sidazhang123.f10.srv.feed;
+
+service Feed {
+    rpc CreateRule (RuleReq) returns (PlainRsp) {
+    }
+    rpc ReadRule (RuleReq) returns (RuleRsp) {
+    }
+    rpc UpdateRule (RuleReq) returns (PlainRsp) {
+    }
+    rpc DeleteRule (RuleReq) returns (PlainRsp) {
+    }
+    rpc GetFocusStat (RuleReq) returns (Chans) {
+    }
+    rpc GenerateFocus (ManipulateFocusReq) returns (PlainRsp) {
+    }
+    rpc ToggleFocusDel (ManipulateFocusReq) returns (PlainRsp) {
+    }
+    rpc ToggleFocusFav (ManipulateFocusReq) returns (PlainRsp) {
+    }
+    rpc PurgeFocus (ManipulateFocusReq) returns (PlainRsp) {
+    }
+    rpc ReadFocus (ManipulateFocusReq) returns (PlainRsp) {
+    }
+    rpc AddJPushReg (JPushReg) returns (PlainRsp) {
+    }
+    rpc Log (PlainReq) returns (PlainRsp) {
+    }
+    rpc GenerateOperationalAnalysisDiffCSV (PlainReq) returns (PlainRsp) {
+    }
+    rpc DeleteOutdatedFocus (PlainReq) returns (PlainRsp){
+    }
+    rpc GetChanODay (PlainReq) returns (Chans) {
+    }
+    rpc SetChanODay (Chans) returns (PlainRsp) {
+    }
+}
+
+
+message Chan {
+    string id = 1;
+    string chanName = 2;
+    int32 NoMsg = 3;
+}
+
+message Chans {
+    bool success = 1;
+    string msg = 2;
+    repeated Chan chans = 3;
+}
+message Stock {
+    string code = 1;
+    string name = 2;
+    string msg = 3;
+}
+message Stocks {
+    bool success = 1;
+    string msg = 2;
+    repeated Stock stocks = 3;
+}
+message Rule {
+    string tar_col = 1;
+    string id = 2;
+    string channel = 3;
+    string key = 4;
+    repeated string cond1 = 5;
+    repeated string cond2 = 6;
+}
+
+
+message RuleReq {
+    repeated Rule rules = 1;
+}
+message PlainReq {
+    string msg = 1;
+}
+message PlainRsp {
+    bool success = 1;
+    string msg = 2;
+}
+message RuleRsp {
+    bool success = 1;
+    string msg = 2;
+    repeated Rule rules = 3;
+}
+
+
+message ManipulateFocusReq {
+    string objectId =1;
+    string date = 2;
+    Chan chan = 3;
+    int32 fav = 4;
+    int32 del =5;
+}
+
+message JPushReg {
+    string id = 1;
+}
+
+
+
+

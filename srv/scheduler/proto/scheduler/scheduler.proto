@@ -1,0 +1,50 @@
+syntax = "proto3";
+//protoc --proto_path=. --go_out=. --micro_out=. proto\scheduler\scheduler.proto
+option go_package="proto/scheduler";
+package sidazhang123.f10.srv.scheduler;
+
+service Scheduler {
+    rpc Once (Request) returns (Response) {
+    }
+    rpc NextScheduledTask (Request) returns (Response) {
+    }
+    rpc UpdateSchedule (Request) returns (Response) {
+    }
+    rpc ClearSchedule (Request) returns (Response) {
+    }
+    rpc RemoveTask (Request) returns (Response) {
+    }
+    rpc DingAlarm(Request) returns (Error){
+    }
+}
+message NextSchedule {
+    string funcName = 1;
+    int64 scheduledTime = 2;
+}
+message Request {
+    string funcName = 1;
+}
+
+message Response {
+    bool success = 1;
+    Error error = 2;
+    NextSchedule task = 3;
+}
+
+message Error {
+    int32 code = 1;
+    string detail = 2;
+}
+
+message Evt {
+    string tag = 1;
+    string sentTime = 2;
+    string msg = 3;
+}
+
+message Log {
+    string tag = 1;
+    int32 level = 2;
+    string sentTime = 3;
+    string msg = 4;
+}

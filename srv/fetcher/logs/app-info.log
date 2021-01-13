@@ -1,0 +1,4 @@
+{"level":"info","ts":1596883632.9092853,"caller":"zap/zap.go:47","msg":"[InfoLogger] Zap initializing completed."}
+{"level":"info","ts":1596883632.912277,"caller":"db/mongodb.go:24","msg":"[InitMongodb] Initializing Mongodb..."}
+{"level":"info","ts":1596883632.9132745,"caller":"db/mongodb.go:32","msg":"&{Mongodb:{Host: Port:0 Username: Password: AuthDB:}}"}
+{"level":"info","ts":1596883632.9402025,"caller":"fetcher/main.go:80","msg":"[initCfg] Conf Loaded...\n%+v","cfg":{"name":"","version":0,"addr":"","port":0}}
