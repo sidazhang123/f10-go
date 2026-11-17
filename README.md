@@ -2,7 +2,7 @@
 
 f10-qt 与 f10-flutter 客户端的完整后端系统：基于 Go 微服务架构，完成 A 股通达信 F10 公司资料的抓取、处理、分发与聚合。
 
-![架构图](https://raw.githubusercontent.com/sidazhang123/f10-go/master/intro.jpg)
+![架构图](https://raw.githubusercontent.com/sidazhang123/f10-go/master/architecture.jpg)
 
 ## 功能特性
 
